@@ -112,8 +112,14 @@ Think of this as a living bookmark collection of things I found interesting enou
 
 ## Programming Languages
 
+### Golang
+- [Tutorial - Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) - Learn Golang and test driven development.
+- [Book - Writing An Interpreter in Go](https://interpreterbook.com/) - Learn how to make an Interpreted programming language.
+- [Book - Writing A Compiler In Go](https://compilerbook.com/) - Learn how to write a Compiler in Go. (Sequel to the book - Writing An Interpreter in Go)
+
 ### Rust
 - [The Core of Rust](https://jyn.dev/the-core-of-rust/) - Understanding Rust deeply (Sep 2025)
+- [Book - Zero To Production In Rust](https://www.zero2prod.com) - An opinionated introduction to backend development in Rust.
 
 ### Swift
 - [Swift Interpreter](https://www.bitrig.app/blog/swift-interpreter) - Building interpreters (Sep 2025)
