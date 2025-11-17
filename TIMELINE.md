@@ -539,4 +539,8 @@ A chronological view of all the links I've shared, in the order I discovered and
 - Shared: Nov 11, 2025
 - Personal website
 
+**[Think in Math](https://www.jmeiners.com/think-in-math/)**
+- Shared: Nov 17, 2025
+- Understanding mathematical thinking
+
 ---
