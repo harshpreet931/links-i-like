@@ -63,6 +63,7 @@ Think of this as a living bookmark collection of things I found interesting enou
 - [Compute Scaling Will Slow Down](https://epochai.substack.com/p/compute-scaling-will-slow-down-due) - Epoch AI analysis (Sep 2025)
 
 ### Math & Foundations
+- [Think in Math](https://www.jmeiners.com/think-in-math/) - Understanding mathematical thinking (Nov 2025)
 - [Mathematics Roadmap for ML](https://thepalindrome.org/p/the-roadmap-of-mathematics-for-machine-learning) - Complete guide (Sep 2025)
 - [JAX ML Scaling Book](https://jax-ml.github.io/scaling-book/) - Scaling with JAX (Aug 2025)
 
@@ -177,11 +178,6 @@ Think of this as a living bookmark collection of things I found interesting enou
 - [GeoSpot Infinity](https://blog.sdan.io/geospot-infinity/) - Geography project (Oct 2025)
 - [How to Remove AI Plagiarism](https://aithor.com/blog/how-to-remove-ai-plagiarism) - Writing tips (Sep 2025)
 
-### Random Gems
-- [Video: Event-Based Concurrency](https://youtu.be/8w6r4MKSe4I) - YouTube explanation (Jul 2025)
-- [Video: Unknown Topic](https://www.youtube.com/watch?v=1H3xQaf7BFI) - Interesting watch (Aug 2025)
-
----
 
 ## Contributing
 
